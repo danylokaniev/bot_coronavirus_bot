@@ -9,7 +9,7 @@ emoji==0.5.4
 idna==2.9
 multidict==4.7.5
 peewee==3.13.2
-pip==20.0.2
+pip==21.1
 pyTelegramBotAPI==3.6.7
 pytz==2019.3
 requests==2.23.0
